@@ -51,7 +51,7 @@ interface Skill {
 
 const LINKEDIN_URL = "https://www.linkedin.com/in/rasheedali-b-293141278/";
 const GITHUB_URL = "https://github.com/reshy28";
-const RESUME_URL = "#"; // Placeholder for resume file
+const RESUME_URL = "https://drive.google.com/file/d/1_4QtEkwN9LZx4AywKl5ZmpUCCipdaa4g/view?usp=sharing";
 
 const PROJECTS: Project[] = [
   {
